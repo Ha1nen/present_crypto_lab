@@ -16,7 +16,7 @@ et_xmlfile==2.0.0
 fonttools==4.61.1
 idna==3.11
 ImageIO==2.37.2
-imageio-ffmpeg==0.6.0
+imageio-ffmpeg==0.8.1
 joblib==1.5.3
 kiwisolver==1.4.9
 lazy_loader==0.4
