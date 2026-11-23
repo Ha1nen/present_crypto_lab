@@ -1,4 +1,4 @@
-﻿audioop-lts==0.2.2
+audioop-lts==0.2.2
 audioread==3.1.0
 av==16.1.0
 beautifulsoup4==4.15.0
@@ -25,7 +25,7 @@ llvmlite==0.46.0
 lxml==6.1.0
 matplotlib==3.10.8
 moviepy==1.0.3
-msgpack==1.1.2
+msgpack==1.2.4
 networkx==3.6.1
 numba==0.63.1
 numpy==2.3.5
