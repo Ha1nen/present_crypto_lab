@@ -1,4 +1,4 @@
-﻿audioop-lts==0.2.2
+audioop-lts==0.2.2
 audioread==3.1.0
 av==16.1.0
 beautifulsoup4==4.15.0
@@ -51,7 +51,7 @@ scipy==1.17.0
 seaborn==0.13.2
 six==1.17.0
 soundfile==0.13.1
-soupsieve==2.9.2
+soupsieve==4.1.2
 soxr==1.0.0
 standard-aifc==3.13.0
 standard-chunk==3.13.0
