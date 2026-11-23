@@ -40,7 +40,7 @@ proglog==0.1.12
 pycparser==2.23
 pyparsing==3.3.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.2.1
+python-dotenv==1.2.2
 python-pptx==1.0.2
 pytz==2025.2
 PyWavelets==1.9.0
