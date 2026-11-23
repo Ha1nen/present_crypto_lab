@@ -58,7 +58,7 @@ standard-chunk==3.13.0
 standard-sunau==3.13.0
 threadpoolctl==3.6.0
 tifffile==2026.11.16
-tqdm==4.67.1
+tqdm==4.70.1
 typing_extensions==4.15.0
 tzdata==2025.3
 urllib3==2.8.0
